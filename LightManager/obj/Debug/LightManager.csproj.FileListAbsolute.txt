@@ -1,0 +1,114 @@
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\KPVisionInspectionFramework\LightManager\bin\Debug\LightManager.dll
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\KPVisionInspectionFramework\LightManager\bin\Debug\LightManager.pdb
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\KPVisionInspectionFramework\LightManager\obj\Debug\LightManager.LightWindow.resources
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\KPVisionInspectionFramework\LightManager\obj\Debug\LightManager.Properties.Resources.resources
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\KPVisionInspectionFramework\LightManager\obj\Debug\LightManager.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\KPVisionInspectionFramework\LightManager\obj\Debug\LightManager.dll
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\KPVisionInspectionFramework\LightManager\obj\Debug\LightManager.pdb
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\LightManager\bin\Debug\LightManager.dll
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\LightManager\bin\Debug\LightManager.pdb
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\LightManager\obj\Debug\LightManager.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\LightManager\obj\Debug\LightManager.LightWindow.resources
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\LightManager\obj\Debug\LightManager.Properties.Resources.resources
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\LightManager\obj\Debug\LightManager.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\LightManager\obj\Debug\LightManager.dll
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\LightManager\obj\Debug\LightManager.pdb
+C:\Zoom\Source management\Project\CIPOSLeadInspection\LightManager\bin\Debug\LightManager.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\LightManager\bin\Debug\LightManager.pdb
+C:\Zoom\Source management\Project\CIPOSLeadInspection\LightManager\bin\Debug\LogMessageManager.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\LightManager\bin\Debug\log4net.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\LightManager\bin\Debug\LogMessageManager.pdb
+C:\Zoom\Source management\Project\CIPOSLeadInspection\LightManager\obj\Debug\LightManager.csprojResolveAssemblyReference.cache
+C:\Zoom\Source management\Project\CIPOSLeadInspection\LightManager\obj\Debug\LightManager.LightWindow.resources
+C:\Zoom\Source management\Project\CIPOSLeadInspection\LightManager\obj\Debug\LightManager.Properties.Resources.resources
+C:\Zoom\Source management\Project\CIPOSLeadInspection\LightManager\obj\Debug\LightManager.csproj.GenerateResource.Cache
+C:\Zoom\Source management\Project\CIPOSLeadInspection\LightManager\obj\Debug\LightManager.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\LightManager\obj\Debug\LightManager.pdb
+C:\Data\AirBlowerProgram\LightManager\bin\Debug\LightManager.dll
+C:\Data\AirBlowerProgram\LightManager\bin\Debug\LightManager.pdb
+C:\Data\AirBlowerProgram\LightManager\bin\Debug\LogMessageManager.dll
+C:\Data\AirBlowerProgram\LightManager\bin\Debug\log4net.dll
+C:\Data\AirBlowerProgram\LightManager\bin\Debug\LogMessageManager.pdb
+C:\Data\AirBlowerProgram\LightManager\obj\Debug\LightManager.csprojResolveAssemblyReference.cache
+C:\Data\AirBlowerProgram\LightManager\obj\Debug\LightManager.LightWindow.resources
+C:\Data\AirBlowerProgram\LightManager\obj\Debug\LightManager.Properties.Resources.resources
+C:\Data\AirBlowerProgram\LightManager\obj\Debug\LightManager.csproj.GenerateResource.Cache
+C:\Data\AirBlowerProgram\LightManager\obj\Debug\LightManager.dll
+C:\Data\AirBlowerProgram\LightManager\obj\Debug\LightManager.pdb
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerProgram_JH\LightManager\bin\Debug\LightManager.dll
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerProgram_JH\LightManager\bin\Debug\LightManager.pdb
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerProgram_JH\LightManager\bin\Debug\LogMessageManager.dll
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerProgram_JH\LightManager\bin\Debug\log4net.dll
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerProgram_JH\LightManager\bin\Debug\LogMessageManager.pdb
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerProgram_JH\LightManager\obj\Debug\LightManager.csprojResolveAssemblyReference.cache
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerProgram_JH\LightManager\obj\Debug\LightManager.LightWindow.resources
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerProgram_JH\LightManager\obj\Debug\LightManager.Properties.Resources.resources
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerProgram_JH\LightManager\obj\Debug\LightManager.csproj.GenerateResource.Cache
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerProgram_JH\LightManager\obj\Debug\LightManager.dll
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerProgram_JH\LightManager\obj\Debug\LightManager.pdb
+H:\AirBlowerProgram_DH\LightManager\bin\Debug\LightManager.dll
+H:\AirBlowerProgram_DH\LightManager\bin\Debug\LightManager.pdb
+H:\AirBlowerProgram_DH\LightManager\bin\Debug\LogMessageManager.dll
+H:\AirBlowerProgram_DH\LightManager\bin\Debug\log4net.dll
+H:\AirBlowerProgram_DH\LightManager\bin\Debug\LogMessageManager.pdb
+H:\AirBlowerProgram_DH\LightManager\obj\Debug\LightManager.csprojResolveAssemblyReference.cache
+H:\AirBlowerProgram_DH\LightManager\obj\Debug\LightManager.LightWindow.resources
+H:\AirBlowerProgram_DH\LightManager\obj\Debug\LightManager.Properties.Resources.resources
+H:\AirBlowerProgram_DH\LightManager\obj\Debug\LightManager.csproj.GenerateResource.Cache
+H:\AirBlowerProgram_DH\LightManager\obj\Debug\LightManager.dll
+H:\AirBlowerProgram_DH\LightManager\obj\Debug\LightManager.pdb
+C:\Data\AirBlowerProgram_DH3\LightManager\bin\Debug\LightManager.dll
+C:\Data\AirBlowerProgram_DH3\LightManager\bin\Debug\LightManager.pdb
+C:\Data\AirBlowerProgram_DH3\LightManager\bin\Debug\LogMessageManager.dll
+C:\Data\AirBlowerProgram_DH3\LightManager\bin\Debug\log4net.dll
+C:\Data\AirBlowerProgram_DH3\LightManager\bin\Debug\LogMessageManager.pdb
+C:\Data\AirBlowerProgram_DH3\LightManager\obj\Debug\LightManager.csprojResolveAssemblyReference.cache
+C:\Data\AirBlowerProgram_DH3\LightManager\obj\Debug\LightManager.LightWindow.resources
+C:\Data\AirBlowerProgram_DH3\LightManager\obj\Debug\LightManager.Properties.Resources.resources
+C:\Data\AirBlowerProgram_DH3\LightManager\obj\Debug\LightManager.csproj.GenerateResource.Cache
+C:\Data\AirBlowerProgram_DH3\LightManager\obj\Debug\LightManager.dll
+C:\Data\AirBlowerProgram_DH3\LightManager\obj\Debug\LightManager.pdb
+D:\Project\2018\Air Blower\AirBlowerProgram_DH4_IBTECH최종\LightManager\bin\Debug\LightManager.dll
+D:\Project\2018\Air Blower\AirBlowerProgram_DH4_IBTECH최종\LightManager\bin\Debug\LightManager.pdb
+D:\Project\2018\Air Blower\AirBlowerProgram_DH4_IBTECH최종\LightManager\bin\Debug\LogMessageManager.dll
+D:\Project\2018\Air Blower\AirBlowerProgram_DH4_IBTECH최종\LightManager\bin\Debug\log4net.dll
+D:\Project\2018\Air Blower\AirBlowerProgram_DH4_IBTECH최종\LightManager\bin\Debug\LogMessageManager.pdb
+D:\Project\2018\Air Blower\AirBlowerProgram_DH4_IBTECH최종\LightManager\obj\Debug\LightManager.csprojResolveAssemblyReference.cache
+D:\Project\2018\Air Blower\AirBlowerProgram_DH4_IBTECH최종\LightManager\obj\Debug\LightManager.LightWindow.resources
+D:\Project\2018\Air Blower\AirBlowerProgram_DH4_IBTECH최종\LightManager\obj\Debug\LightManager.Properties.Resources.resources
+D:\Project\2018\Air Blower\AirBlowerProgram_DH4_IBTECH최종\LightManager\obj\Debug\LightManager.csproj.GenerateResource.Cache
+D:\Project\2018\Air Blower\AirBlowerProgram_DH4_IBTECH최종\LightManager\obj\Debug\LightManager.dll
+D:\Project\2018\Air Blower\AirBlowerProgram_DH4_IBTECH최종\LightManager\obj\Debug\LightManager.pdb
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_DH4_MIT최종\LightManager\bin\Debug\LightManager.dll
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_DH4_MIT최종\LightManager\bin\Debug\LightManager.pdb
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_DH4_MIT최종\LightManager\bin\Debug\LogMessageManager.dll
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_DH4_MIT최종\LightManager\bin\Debug\log4net.dll
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_DH4_MIT최종\LightManager\bin\Debug\LogMessageManager.pdb
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_DH4_MIT최종\LightManager\obj\Debug\LightManager.csprojResolveAssemblyReference.cache
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_DH4_MIT최종\LightManager\obj\Debug\LightManager.LightWindow.resources
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_DH4_MIT최종\LightManager\obj\Debug\LightManager.Properties.Resources.resources
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_DH4_MIT최종\LightManager\obj\Debug\LightManager.csproj.GenerateResource.Cache
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_DH4_MIT최종\LightManager\obj\Debug\LightManager.dll
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_DH4_MIT최종\LightManager\obj\Debug\LightManager.pdb
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190405\LightManager\bin\Debug\LightManager.dll
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190405\LightManager\bin\Debug\LightManager.pdb
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190405\LightManager\bin\Debug\LogMessageManager.dll
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190405\LightManager\bin\Debug\log4net.dll
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190405\LightManager\bin\Debug\LogMessageManager.pdb
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190405\LightManager\obj\Debug\LightManager.csprojResolveAssemblyReference.cache
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190405\LightManager\obj\Debug\LightManager.LightWindow.resources
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190405\LightManager\obj\Debug\LightManager.Properties.Resources.resources
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190405\LightManager\obj\Debug\LightManager.csproj.GenerateResource.Cache
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190405\LightManager\obj\Debug\LightManager.dll
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190405\LightManager\obj\Debug\LightManager.pdb
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190410배포\LightManager\bin\Debug\LightManager.dll
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190410배포\LightManager\bin\Debug\LightManager.pdb
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190410배포\LightManager\bin\Debug\LogMessageManager.dll
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190410배포\LightManager\bin\Debug\log4net.dll
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190410배포\LightManager\bin\Debug\LogMessageManager.pdb
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190410배포\LightManager\obj\Debug\LightManager.csprojResolveAssemblyReference.cache
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190410배포\LightManager\obj\Debug\LightManager.LightWindow.resources
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190410배포\LightManager\obj\Debug\LightManager.Properties.Resources.resources
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190410배포\LightManager\obj\Debug\LightManager.csproj.GenerateResource.Cache
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190410배포\LightManager\obj\Debug\LightManager.dll
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190410배포\LightManager\obj\Debug\LightManager.pdb

@@ -1,0 +1,149 @@
+C:\Zoom\Company\Software\[SS]\CIPOS Lead Inspection\CIPOSLeadInspection\ParameterManager\bin\Debug\ParameterManager.dll
+C:\Zoom\Company\Software\[SS]\CIPOS Lead Inspection\CIPOSLeadInspection\ParameterManager\bin\Debug\ParameterManager.pdb
+C:\Zoom\Company\Software\[SS]\CIPOS Lead Inspection\CIPOSLeadInspection\ParameterManager\obj\Debug\ParameterManager.dll
+C:\Zoom\Company\Software\[SS]\CIPOS Lead Inspection\CIPOSLeadInspection\ParameterManager\obj\Debug\ParameterManager.pdb
+C:\Zoom\Company\Software\[SS]\CIPOS Lead Inspection\CIPOSLeadInspection\ParameterManager\obj\Debug\ParameterManager.csprojResolveAssemblyReference.cache
+C:\Zoom\Source management\Project\CIPOSLeadInspection\ParameterManager\bin\Debug\ParameterManager.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\ParameterManager\bin\Debug\ParameterManager.pdb
+C:\Zoom\Source management\Project\CIPOSLeadInspection\ParameterManager\bin\Debug\Cognex.VisionPro.Core.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\ParameterManager\bin\Debug\Cognex.VisionPro.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\ParameterManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\ParameterManager\bin\Debug\LogMessageManager.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\ParameterManager\bin\Debug\log4net.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\ParameterManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\ParameterManager\bin\Debug\stdole.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\ParameterManager\bin\Debug\LogMessageManager.pdb
+C:\Zoom\Source management\Project\CIPOSLeadInspection\ParameterManager\bin\Debug\Cognex.VisionPro.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\ParameterManager\bin\Debug\Cognex.VisionPro.Core.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\ParameterManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+C:\Zoom\Source management\Project\CIPOSLeadInspection\ParameterManager\obj\Debug\ParameterManager.csprojResolveAssemblyReference.cache
+C:\Zoom\Source management\Project\CIPOSLeadInspection\ParameterManager\obj\Debug\ParameterManager.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\ParameterManager\obj\Debug\ParameterManager.pdb
+C:\Data\AirBlowerProgram\ParameterManager\bin\Debug\ParameterManager.dll
+C:\Data\AirBlowerProgram\ParameterManager\bin\Debug\ParameterManager.pdb
+C:\Data\AirBlowerProgram\ParameterManager\bin\Debug\Cognex.VisionPro.Core.dll
+C:\Data\AirBlowerProgram\ParameterManager\bin\Debug\Cognex.VisionPro.dll
+C:\Data\AirBlowerProgram\ParameterManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+C:\Data\AirBlowerProgram\ParameterManager\bin\Debug\LogMessageManager.dll
+C:\Data\AirBlowerProgram\ParameterManager\bin\Debug\log4net.dll
+C:\Data\AirBlowerProgram\ParameterManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+C:\Data\AirBlowerProgram\ParameterManager\bin\Debug\stdole.dll
+C:\Data\AirBlowerProgram\ParameterManager\bin\Debug\LogMessageManager.pdb
+C:\Data\AirBlowerProgram\ParameterManager\bin\Debug\Cognex.VisionPro.xml
+C:\Data\AirBlowerProgram\ParameterManager\bin\Debug\Cognex.VisionPro.Core.xml
+C:\Data\AirBlowerProgram\ParameterManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+C:\Data\AirBlowerProgram\ParameterManager\obj\Debug\ParameterManager.csprojResolveAssemblyReference.cache
+C:\Data\AirBlowerProgram\ParameterManager\obj\Debug\ParameterManager.dll
+C:\Data\AirBlowerProgram\ParameterManager\obj\Debug\ParameterManager.pdb
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerProgram_JH\ParameterManager\bin\Debug\ParameterManager.dll
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerProgram_JH\ParameterManager\bin\Debug\ParameterManager.pdb
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerProgram_JH\ParameterManager\bin\Debug\Cognex.VisionPro.Core.dll
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerProgram_JH\ParameterManager\bin\Debug\Cognex.VisionPro.dll
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerProgram_JH\ParameterManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerProgram_JH\ParameterManager\bin\Debug\LogMessageManager.dll
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerProgram_JH\ParameterManager\bin\Debug\log4net.dll
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerProgram_JH\ParameterManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerProgram_JH\ParameterManager\bin\Debug\stdole.dll
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerProgram_JH\ParameterManager\bin\Debug\LogMessageManager.pdb
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerProgram_JH\ParameterManager\bin\Debug\Cognex.VisionPro.xml
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerProgram_JH\ParameterManager\bin\Debug\Cognex.VisionPro.Core.xml
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerProgram_JH\ParameterManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerProgram_JH\ParameterManager\obj\Debug\ParameterManager.csprojResolveAssemblyReference.cache
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerProgram_JH\ParameterManager\obj\Debug\ParameterManager.dll
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerProgram_JH\ParameterManager\obj\Debug\ParameterManager.pdb
+H:\AirBlowerProgram_DH\ParameterManager\bin\Debug\ParameterManager.dll
+H:\AirBlowerProgram_DH\ParameterManager\bin\Debug\ParameterManager.pdb
+H:\AirBlowerProgram_DH\ParameterManager\bin\Debug\Cognex.VisionPro.Core.dll
+H:\AirBlowerProgram_DH\ParameterManager\bin\Debug\Cognex.VisionPro.dll
+H:\AirBlowerProgram_DH\ParameterManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+H:\AirBlowerProgram_DH\ParameterManager\bin\Debug\LogMessageManager.dll
+H:\AirBlowerProgram_DH\ParameterManager\bin\Debug\log4net.dll
+H:\AirBlowerProgram_DH\ParameterManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+H:\AirBlowerProgram_DH\ParameterManager\bin\Debug\stdole.dll
+H:\AirBlowerProgram_DH\ParameterManager\bin\Debug\LogMessageManager.pdb
+H:\AirBlowerProgram_DH\ParameterManager\bin\Debug\Cognex.VisionPro.xml
+H:\AirBlowerProgram_DH\ParameterManager\bin\Debug\Cognex.VisionPro.Core.xml
+H:\AirBlowerProgram_DH\ParameterManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+H:\AirBlowerProgram_DH\ParameterManager\obj\Debug\ParameterManager.csprojResolveAssemblyReference.cache
+H:\AirBlowerProgram_DH\ParameterManager\obj\Debug\ParameterManager.dll
+H:\AirBlowerProgram_DH\ParameterManager\obj\Debug\ParameterManager.pdb
+C:\Data\AirBlowerProgram_DH3\ParameterManager\bin\Debug\ParameterManager.dll
+C:\Data\AirBlowerProgram_DH3\ParameterManager\bin\Debug\ParameterManager.pdb
+C:\Data\AirBlowerProgram_DH3\ParameterManager\bin\Debug\Cognex.VisionPro.Core.dll
+C:\Data\AirBlowerProgram_DH3\ParameterManager\bin\Debug\Cognex.VisionPro.dll
+C:\Data\AirBlowerProgram_DH3\ParameterManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+C:\Data\AirBlowerProgram_DH3\ParameterManager\bin\Debug\LogMessageManager.dll
+C:\Data\AirBlowerProgram_DH3\ParameterManager\bin\Debug\log4net.dll
+C:\Data\AirBlowerProgram_DH3\ParameterManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+C:\Data\AirBlowerProgram_DH3\ParameterManager\bin\Debug\stdole.dll
+C:\Data\AirBlowerProgram_DH3\ParameterManager\bin\Debug\LogMessageManager.pdb
+C:\Data\AirBlowerProgram_DH3\ParameterManager\bin\Debug\Cognex.VisionPro.xml
+C:\Data\AirBlowerProgram_DH3\ParameterManager\bin\Debug\Cognex.VisionPro.Core.xml
+C:\Data\AirBlowerProgram_DH3\ParameterManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+C:\Data\AirBlowerProgram_DH3\ParameterManager\obj\Debug\ParameterManager.csprojResolveAssemblyReference.cache
+C:\Data\AirBlowerProgram_DH3\ParameterManager\obj\Debug\ParameterManager.dll
+C:\Data\AirBlowerProgram_DH3\ParameterManager\obj\Debug\ParameterManager.pdb
+D:\Project\2018\Air Blower\AirBlowerProgram_DH4_IBTECH최종\ParameterManager\bin\Debug\ParameterManager.dll
+D:\Project\2018\Air Blower\AirBlowerProgram_DH4_IBTECH최종\ParameterManager\bin\Debug\ParameterManager.pdb
+D:\Project\2018\Air Blower\AirBlowerProgram_DH4_IBTECH최종\ParameterManager\bin\Debug\Cognex.VisionPro.Core.dll
+D:\Project\2018\Air Blower\AirBlowerProgram_DH4_IBTECH최종\ParameterManager\bin\Debug\Cognex.VisionPro.dll
+D:\Project\2018\Air Blower\AirBlowerProgram_DH4_IBTECH최종\ParameterManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+D:\Project\2018\Air Blower\AirBlowerProgram_DH4_IBTECH최종\ParameterManager\bin\Debug\LogMessageManager.dll
+D:\Project\2018\Air Blower\AirBlowerProgram_DH4_IBTECH최종\ParameterManager\bin\Debug\log4net.dll
+D:\Project\2018\Air Blower\AirBlowerProgram_DH4_IBTECH최종\ParameterManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+D:\Project\2018\Air Blower\AirBlowerProgram_DH4_IBTECH최종\ParameterManager\bin\Debug\stdole.dll
+D:\Project\2018\Air Blower\AirBlowerProgram_DH4_IBTECH최종\ParameterManager\bin\Debug\LogMessageManager.pdb
+D:\Project\2018\Air Blower\AirBlowerProgram_DH4_IBTECH최종\ParameterManager\bin\Debug\Cognex.VisionPro.xml
+D:\Project\2018\Air Blower\AirBlowerProgram_DH4_IBTECH최종\ParameterManager\bin\Debug\Cognex.VisionPro.Core.xml
+D:\Project\2018\Air Blower\AirBlowerProgram_DH4_IBTECH최종\ParameterManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+D:\Project\2018\Air Blower\AirBlowerProgram_DH4_IBTECH최종\ParameterManager\obj\Debug\ParameterManager.csprojResolveAssemblyReference.cache
+D:\Project\2018\Air Blower\AirBlowerProgram_DH4_IBTECH최종\ParameterManager\obj\Debug\ParameterManager.dll
+D:\Project\2018\Air Blower\AirBlowerProgram_DH4_IBTECH최종\ParameterManager\obj\Debug\ParameterManager.pdb
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_DH4_MIT최종\ParameterManager\bin\Debug\ParameterManager.dll
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_DH4_MIT최종\ParameterManager\bin\Debug\ParameterManager.pdb
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_DH4_MIT최종\ParameterManager\bin\Debug\Cognex.VisionPro.Core.dll
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_DH4_MIT최종\ParameterManager\bin\Debug\Cognex.VisionPro.dll
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_DH4_MIT최종\ParameterManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_DH4_MIT최종\ParameterManager\bin\Debug\LogMessageManager.dll
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_DH4_MIT최종\ParameterManager\bin\Debug\log4net.dll
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_DH4_MIT최종\ParameterManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_DH4_MIT최종\ParameterManager\bin\Debug\stdole.dll
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_DH4_MIT최종\ParameterManager\bin\Debug\LogMessageManager.pdb
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_DH4_MIT최종\ParameterManager\bin\Debug\Cognex.VisionPro.xml
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_DH4_MIT최종\ParameterManager\bin\Debug\Cognex.VisionPro.Core.xml
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_DH4_MIT최종\ParameterManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_DH4_MIT최종\ParameterManager\obj\Debug\ParameterManager.csprojResolveAssemblyReference.cache
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_DH4_MIT최종\ParameterManager\obj\Debug\ParameterManager.dll
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_DH4_MIT최종\ParameterManager\obj\Debug\ParameterManager.pdb
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190405\ParameterManager\bin\Debug\ParameterManager.dll
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190405\ParameterManager\bin\Debug\ParameterManager.pdb
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190405\ParameterManager\bin\Debug\Cognex.VisionPro.Core.dll
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190405\ParameterManager\bin\Debug\Cognex.VisionPro.dll
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190405\ParameterManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190405\ParameterManager\bin\Debug\LogMessageManager.dll
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190405\ParameterManager\bin\Debug\log4net.dll
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190405\ParameterManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190405\ParameterManager\bin\Debug\stdole.dll
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190405\ParameterManager\bin\Debug\LogMessageManager.pdb
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190405\ParameterManager\bin\Debug\Cognex.VisionPro.xml
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190405\ParameterManager\bin\Debug\Cognex.VisionPro.Core.xml
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190405\ParameterManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190405\ParameterManager\obj\Debug\ParameterManager.csprojResolveAssemblyReference.cache
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190405\ParameterManager\obj\Debug\ParameterManager.dll
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190405\ParameterManager\obj\Debug\ParameterManager.pdb
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190410배포\ParameterManager\bin\Debug\ParameterManager.dll
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190410배포\ParameterManager\bin\Debug\ParameterManager.pdb
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190410배포\ParameterManager\bin\Debug\Cognex.VisionPro.Core.dll
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190410배포\ParameterManager\bin\Debug\Cognex.VisionPro.dll
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190410배포\ParameterManager\bin\Debug\Cognex.VisionPro.PMAlign.dll
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190410배포\ParameterManager\bin\Debug\LogMessageManager.dll
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190410배포\ParameterManager\bin\Debug\log4net.dll
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190410배포\ParameterManager\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190410배포\ParameterManager\bin\Debug\stdole.dll
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190410배포\ParameterManager\bin\Debug\LogMessageManager.pdb
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190410배포\ParameterManager\bin\Debug\Cognex.VisionPro.xml
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190410배포\ParameterManager\bin\Debug\Cognex.VisionPro.Core.xml
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190410배포\ParameterManager\bin\Debug\Cognex.VisionPro.PMAlign.xml
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190410배포\ParameterManager\obj\Debug\ParameterManager.csprojResolveAssemblyReference.cache
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190410배포\ParameterManager\obj\Debug\ParameterManager.dll
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190410배포\ParameterManager\obj\Debug\ParameterManager.pdb

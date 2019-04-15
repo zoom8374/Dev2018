@@ -1,0 +1,138 @@
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\KPVisionInspectionFramework\SerialManager\bin\Release\SerialManager.dll
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\KPVisionInspectionFramework\SerialManager\bin\Release\SerialManager.pdb
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\KPVisionInspectionFramework\SerialManager\obj\Release\SerialManager.Properties.Resources.resources
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\KPVisionInspectionFramework\SerialManager\obj\Release\SerialManager.SerialWindow.resources
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\KPVisionInspectionFramework\SerialManager\obj\Release\SerialManager.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\KPVisionInspectionFramework\SerialManager\obj\Release\SerialManager.dll
+C:\Users\Administrator\Desktop\CIPOSLeadInspection\KPVisionInspectionFramework\SerialManager\obj\Release\SerialManager.pdb
+C:\Zoom\Source management\Project\CIPOSLeadInspection\SerialManager\bin\Release\SerialManager.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\SerialManager\bin\Release\SerialManager.pdb
+C:\Zoom\Source management\Project\CIPOSLeadInspection\SerialManager\bin\Release\LogMessageManager.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\SerialManager\bin\Release\log4net.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\SerialManager\bin\Release\LogMessageManager.pdb
+C:\Zoom\Source management\Project\CIPOSLeadInspection\SerialManager\obj\Release\SerialManager.csprojResolveAssemblyReference.cache
+C:\Zoom\Source management\Project\CIPOSLeadInspection\SerialManager\obj\Release\SerialManager.Properties.Resources.resources
+C:\Zoom\Source management\Project\CIPOSLeadInspection\SerialManager\obj\Release\SerialManager.SerialWindow.resources
+C:\Zoom\Source management\Project\CIPOSLeadInspection\SerialManager\obj\Release\SerialManager.csproj.GenerateResource.Cache
+C:\Zoom\Source management\Project\CIPOSLeadInspection\SerialManager\obj\Release\SerialManager.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\SerialManager\obj\Release\SerialManager.pdb
+C:\Data\AirBlowerProgram\SerialManager\bin\Release\SerialManager.dll
+C:\Data\AirBlowerProgram\SerialManager\bin\Release\SerialManager.pdb
+C:\Data\AirBlowerProgram\SerialManager\bin\Release\LogMessageManager.dll
+C:\Data\AirBlowerProgram\SerialManager\bin\Release\log4net.dll
+C:\Data\AirBlowerProgram\SerialManager\bin\Release\LogMessageManager.pdb
+C:\Data\AirBlowerProgram\SerialManager\obj\Release\SerialManager.Properties.Resources.resources
+C:\Data\AirBlowerProgram\SerialManager\obj\Release\SerialManager.SerialWindow.resources
+C:\Data\AirBlowerProgram\SerialManager\obj\Release\SerialManager.csproj.GenerateResource.Cache
+C:\Data\AirBlowerProgram\SerialManager\obj\Release\SerialManager.dll
+C:\Data\AirBlowerProgram\SerialManager\obj\Release\SerialManager.pdb
+C:\Data\AirBlowerProgram\SerialManager\obj\Release\SerialManager.csprojResolveAssemblyReference.cache
+F:\AirBlowerProgram_DH\SerialManager\bin\Release\SerialManager.dll
+F:\AirBlowerProgram_DH\SerialManager\bin\Release\SerialManager.pdb
+F:\AirBlowerProgram_DH\SerialManager\bin\Release\LogMessageManager.dll
+F:\AirBlowerProgram_DH\SerialManager\bin\Release\log4net.dll
+F:\AirBlowerProgram_DH\SerialManager\bin\Release\LogMessageManager.pdb
+F:\AirBlowerProgram_DH\SerialManager\obj\Release\SerialManager.csprojResolveAssemblyReference.cache
+F:\AirBlowerProgram_DH\SerialManager\obj\Release\SerialManager.Properties.Resources.resources
+F:\AirBlowerProgram_DH\SerialManager\obj\Release\SerialManager.SerialWindow.resources
+F:\AirBlowerProgram_DH\SerialManager\obj\Release\SerialManager.csproj.GenerateResource.Cache
+F:\AirBlowerProgram_DH\SerialManager\obj\Release\SerialManager.dll
+F:\AirBlowerProgram_DH\SerialManager\obj\Release\SerialManager.pdb
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerInspection_201902 현장\AirBlowerProgram_DH2\SerialManager\bin\Release\SerialManager.dll
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerInspection_201902 현장\AirBlowerProgram_DH2\SerialManager\bin\Release\SerialManager.pdb
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerInspection_201902 현장\AirBlowerProgram_DH2\SerialManager\bin\Release\LogMessageManager.dll
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerInspection_201902 현장\AirBlowerProgram_DH2\SerialManager\bin\Release\log4net.dll
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerInspection_201902 현장\AirBlowerProgram_DH2\SerialManager\bin\Release\LogMessageManager.pdb
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerInspection_201902 현장\AirBlowerProgram_DH2\SerialManager\obj\Release\SerialManager.Properties.Resources.resources
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerInspection_201902 현장\AirBlowerProgram_DH2\SerialManager\obj\Release\SerialManager.SerialWindow.resources
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerInspection_201902 현장\AirBlowerProgram_DH2\SerialManager\obj\Release\SerialManager.csproj.GenerateResource.Cache
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerInspection_201902 현장\AirBlowerProgram_DH2\SerialManager\obj\Release\SerialManager.dll
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerInspection_201902 현장\AirBlowerProgram_DH2\SerialManager\obj\Release\SerialManager.pdb
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerInspection_201902 현장\AirBlowerProgram_DH3\SerialManager\bin\Release\SerialManager.dll
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerInspection_201902 현장\AirBlowerProgram_DH3\SerialManager\bin\Release\SerialManager.pdb
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerInspection_201902 현장\AirBlowerProgram_DH3\SerialManager\bin\Release\LogMessageManager.dll
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerInspection_201902 현장\AirBlowerProgram_DH3\SerialManager\bin\Release\log4net.dll
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerInspection_201902 현장\AirBlowerProgram_DH3\SerialManager\bin\Release\LogMessageManager.pdb
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerInspection_201902 현장\AirBlowerProgram_DH3\SerialManager\obj\Release\SerialManager.csprojResolveAssemblyReference.cache
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerInspection_201902 현장\AirBlowerProgram_DH3\SerialManager\obj\Release\SerialManager.Properties.Resources.resources
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerInspection_201902 현장\AirBlowerProgram_DH3\SerialManager\obj\Release\SerialManager.SerialWindow.resources
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerInspection_201902 현장\AirBlowerProgram_DH3\SerialManager\obj\Release\SerialManager.csproj.GenerateResource.Cache
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerInspection_201902 현장\AirBlowerProgram_DH3\SerialManager\obj\Release\SerialManager.dll
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerInspection_201902 현장\AirBlowerProgram_DH3\SerialManager\obj\Release\SerialManager.pdb
+C:\Data\AirBlowerProgram_DH3\SerialManager\bin\Release\SerialManager.dll
+C:\Data\AirBlowerProgram_DH3\SerialManager\bin\Release\SerialManager.pdb
+C:\Data\AirBlowerProgram_DH3\SerialManager\bin\Release\LogMessageManager.dll
+C:\Data\AirBlowerProgram_DH3\SerialManager\bin\Release\log4net.dll
+C:\Data\AirBlowerProgram_DH3\SerialManager\bin\Release\LogMessageManager.pdb
+C:\Data\AirBlowerProgram_DH3\SerialManager\obj\Release\SerialManager.csprojResolveAssemblyReference.cache
+C:\Data\AirBlowerProgram_DH3\SerialManager\obj\Release\SerialManager.Properties.Resources.resources
+C:\Data\AirBlowerProgram_DH3\SerialManager\obj\Release\SerialManager.SerialWindow.resources
+C:\Data\AirBlowerProgram_DH3\SerialManager\obj\Release\SerialManager.csproj.GenerateResource.Cache
+C:\Data\AirBlowerProgram_DH3\SerialManager\obj\Release\SerialManager.dll
+C:\Data\AirBlowerProgram_DH3\SerialManager\obj\Release\SerialManager.pdb
+F:\[Project]\2018\삼성전기_Air Blower\Program\AirBlowerProgram_DH4\SerialManager\bin\Release\SerialManager.dll
+F:\[Project]\2018\삼성전기_Air Blower\Program\AirBlowerProgram_DH4\SerialManager\bin\Release\SerialManager.pdb
+F:\[Project]\2018\삼성전기_Air Blower\Program\AirBlowerProgram_DH4\SerialManager\bin\Release\LogMessageManager.dll
+F:\[Project]\2018\삼성전기_Air Blower\Program\AirBlowerProgram_DH4\SerialManager\bin\Release\log4net.dll
+F:\[Project]\2018\삼성전기_Air Blower\Program\AirBlowerProgram_DH4\SerialManager\bin\Release\LogMessageManager.pdb
+F:\[Project]\2018\삼성전기_Air Blower\Program\AirBlowerProgram_DH4\SerialManager\obj\Release\SerialManager.csprojResolveAssemblyReference.cache
+F:\[Project]\2018\삼성전기_Air Blower\Program\AirBlowerProgram_DH4\SerialManager\obj\Release\SerialManager.Properties.Resources.resources
+F:\[Project]\2018\삼성전기_Air Blower\Program\AirBlowerProgram_DH4\SerialManager\obj\Release\SerialManager.SerialWindow.resources
+F:\[Project]\2018\삼성전기_Air Blower\Program\AirBlowerProgram_DH4\SerialManager\obj\Release\SerialManager.csproj.GenerateResource.Cache
+F:\[Project]\2018\삼성전기_Air Blower\Program\AirBlowerProgram_DH4\SerialManager\obj\Release\SerialManager.dll
+F:\[Project]\2018\삼성전기_Air Blower\Program\AirBlowerProgram_DH4\SerialManager\obj\Release\SerialManager.pdb
+F:\[Project]\2018\삼성전기_Air Blower\Program\AirBlowerProgram_DH4_IBTECH최종\SerialManager\bin\Release\SerialManager.dll
+F:\[Project]\2018\삼성전기_Air Blower\Program\AirBlowerProgram_DH4_IBTECH최종\SerialManager\bin\Release\SerialManager.pdb
+F:\[Project]\2018\삼성전기_Air Blower\Program\AirBlowerProgram_DH4_IBTECH최종\SerialManager\bin\Release\LogMessageManager.dll
+F:\[Project]\2018\삼성전기_Air Blower\Program\AirBlowerProgram_DH4_IBTECH최종\SerialManager\bin\Release\log4net.dll
+F:\[Project]\2018\삼성전기_Air Blower\Program\AirBlowerProgram_DH4_IBTECH최종\SerialManager\bin\Release\LogMessageManager.pdb
+F:\[Project]\2018\삼성전기_Air Blower\Program\AirBlowerProgram_DH4_IBTECH최종\SerialManager\obj\Release\SerialManager.csprojResolveAssemblyReference.cache
+F:\[Project]\2018\삼성전기_Air Blower\Program\AirBlowerProgram_DH4_IBTECH최종\SerialManager\obj\Release\SerialManager.Properties.Resources.resources
+F:\[Project]\2018\삼성전기_Air Blower\Program\AirBlowerProgram_DH4_IBTECH최종\SerialManager\obj\Release\SerialManager.SerialWindow.resources
+F:\[Project]\2018\삼성전기_Air Blower\Program\AirBlowerProgram_DH4_IBTECH최종\SerialManager\obj\Release\SerialManager.csproj.GenerateResource.Cache
+F:\[Project]\2018\삼성전기_Air Blower\Program\AirBlowerProgram_DH4_IBTECH최종\SerialManager\obj\Release\SerialManager.dll
+F:\[Project]\2018\삼성전기_Air Blower\Program\AirBlowerProgram_DH4_IBTECH최종\SerialManager\obj\Release\SerialManager.pdb
+D:\Project\2018\Air Blower\AirBlowerProgram_DH4_IBTECH최종\SerialManager\bin\Release\SerialManager.dll
+D:\Project\2018\Air Blower\AirBlowerProgram_DH4_IBTECH최종\SerialManager\bin\Release\SerialManager.pdb
+D:\Project\2018\Air Blower\AirBlowerProgram_DH4_IBTECH최종\SerialManager\bin\Release\LogMessageManager.dll
+D:\Project\2018\Air Blower\AirBlowerProgram_DH4_IBTECH최종\SerialManager\bin\Release\log4net.dll
+D:\Project\2018\Air Blower\AirBlowerProgram_DH4_IBTECH최종\SerialManager\bin\Release\LogMessageManager.pdb
+D:\Project\2018\Air Blower\AirBlowerProgram_DH4_IBTECH최종\SerialManager\obj\Release\SerialManager.csprojResolveAssemblyReference.cache
+D:\Project\2018\Air Blower\AirBlowerProgram_DH4_IBTECH최종\SerialManager\obj\Release\SerialManager.Properties.Resources.resources
+D:\Project\2018\Air Blower\AirBlowerProgram_DH4_IBTECH최종\SerialManager\obj\Release\SerialManager.SerialWindow.resources
+D:\Project\2018\Air Blower\AirBlowerProgram_DH4_IBTECH최종\SerialManager\obj\Release\SerialManager.csproj.GenerateResource.Cache
+D:\Project\2018\Air Blower\AirBlowerProgram_DH4_IBTECH최종\SerialManager\obj\Release\SerialManager.dll
+D:\Project\2018\Air Blower\AirBlowerProgram_DH4_IBTECH최종\SerialManager\obj\Release\SerialManager.pdb
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_DH4_MIT최종\SerialManager\bin\Release\SerialManager.dll
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_DH4_MIT최종\SerialManager\bin\Release\SerialManager.pdb
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_DH4_MIT최종\SerialManager\bin\Release\LogMessageManager.dll
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_DH4_MIT최종\SerialManager\bin\Release\log4net.dll
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_DH4_MIT최종\SerialManager\bin\Release\LogMessageManager.pdb
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_DH4_MIT최종\SerialManager\obj\Release\SerialManager.csprojResolveAssemblyReference.cache
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_DH4_MIT최종\SerialManager\obj\Release\SerialManager.Properties.Resources.resources
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_DH4_MIT최종\SerialManager\obj\Release\SerialManager.SerialWindow.resources
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_DH4_MIT최종\SerialManager\obj\Release\SerialManager.csproj.GenerateResource.Cache
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_DH4_MIT최종\SerialManager\obj\Release\SerialManager.dll
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_DH4_MIT최종\SerialManager\obj\Release\SerialManager.pdb
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190405\SerialManager\bin\Release\SerialManager.dll
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190405\SerialManager\bin\Release\SerialManager.pdb
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190405\SerialManager\bin\Release\LogMessageManager.dll
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190405\SerialManager\bin\Release\log4net.dll
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190405\SerialManager\bin\Release\LogMessageManager.pdb
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190405\SerialManager\obj\Release\SerialManager.csprojResolveAssemblyReference.cache
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190405\SerialManager\obj\Release\SerialManager.Properties.Resources.resources
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190405\SerialManager\obj\Release\SerialManager.SerialWindow.resources
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190405\SerialManager\obj\Release\SerialManager.csproj.GenerateResource.Cache
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190405\SerialManager\obj\Release\SerialManager.dll
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190405\SerialManager\obj\Release\SerialManager.pdb
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190410배포\SerialManager\bin\Release\SerialManager.dll
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190410배포\SerialManager\bin\Release\SerialManager.pdb
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190410배포\SerialManager\bin\Release\LogMessageManager.dll
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190410배포\SerialManager\bin\Release\log4net.dll
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190410배포\SerialManager\bin\Release\LogMessageManager.pdb
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190410배포\SerialManager\obj\Release\SerialManager.csprojResolveAssemblyReference.cache
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190410배포\SerialManager\obj\Release\SerialManager.Properties.Resources.resources
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190410배포\SerialManager\obj\Release\SerialManager.SerialWindow.resources
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190410배포\SerialManager\obj\Release\SerialManager.csproj.GenerateResource.Cache
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190410배포\SerialManager\obj\Release\SerialManager.dll
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190410배포\SerialManager\obj\Release\SerialManager.pdb

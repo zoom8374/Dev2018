@@ -1,0 +1,96 @@
+C:\Zoom\Source management\Project\CIPOSLeadInspection\EthernetServerManager\bin\Release\EthernetServerManager.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\EthernetServerManager\bin\Release\EthernetServerManager.pdb
+C:\Zoom\Source management\Project\CIPOSLeadInspection\EthernetServerManager\bin\Release\CustonMsgBoxManager.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\EthernetServerManager\obj\Release\EthernetServerManager.csprojResolveAssemblyReference.cache
+C:\Zoom\Source management\Project\CIPOSLeadInspection\EthernetServerManager\obj\Release\EthernetServerManager.EthernetWindow.resources
+C:\Zoom\Source management\Project\CIPOSLeadInspection\EthernetServerManager\obj\Release\EthernetServerManager.Properties.Resources.resources
+C:\Zoom\Source management\Project\CIPOSLeadInspection\EthernetServerManager\obj\Release\EthernetServerManager.csproj.GenerateResource.Cache
+C:\Zoom\Source management\Project\CIPOSLeadInspection\EthernetServerManager\obj\Release\EthernetServerManager.dll
+C:\Zoom\Source management\Project\CIPOSLeadInspection\EthernetServerManager\obj\Release\EthernetServerManager.pdb
+C:\Data\AirBlowerProgram\EthernetServerManager\bin\Release\EthernetServerManager.dll
+C:\Data\AirBlowerProgram\EthernetServerManager\bin\Release\EthernetServerManager.pdb
+C:\Data\AirBlowerProgram\EthernetServerManager\bin\Release\CustonMsgBoxManager.dll
+C:\Data\AirBlowerProgram\EthernetServerManager\obj\Release\EthernetServerManager.EthernetWindow.resources
+C:\Data\AirBlowerProgram\EthernetServerManager\obj\Release\EthernetServerManager.Properties.Resources.resources
+C:\Data\AirBlowerProgram\EthernetServerManager\obj\Release\EthernetServerManager.csproj.GenerateResource.Cache
+C:\Data\AirBlowerProgram\EthernetServerManager\obj\Release\EthernetServerManager.dll
+C:\Data\AirBlowerProgram\EthernetServerManager\obj\Release\EthernetServerManager.pdb
+C:\Data\AirBlowerProgram\EthernetServerManager\obj\Release\EthernetServerManager.csprojResolveAssemblyReference.cache
+F:\AirBlowerProgram_DH\EthernetServerManager\bin\Release\EthernetServerManager.dll
+F:\AirBlowerProgram_DH\EthernetServerManager\bin\Release\EthernetServerManager.pdb
+F:\AirBlowerProgram_DH\EthernetServerManager\bin\Release\CustonMsgBoxManager.dll
+F:\AirBlowerProgram_DH\EthernetServerManager\obj\Release\EthernetServerManager.EthernetWindow.resources
+F:\AirBlowerProgram_DH\EthernetServerManager\obj\Release\EthernetServerManager.Properties.Resources.resources
+F:\AirBlowerProgram_DH\EthernetServerManager\obj\Release\EthernetServerManager.csproj.GenerateResource.Cache
+F:\AirBlowerProgram_DH\EthernetServerManager\obj\Release\EthernetServerManager.dll
+F:\AirBlowerProgram_DH\EthernetServerManager\obj\Release\EthernetServerManager.pdb
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerInspection_201902 현장\AirBlowerProgram_DH2\EthernetServerManager\bin\Release\EthernetServerManager.dll
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerInspection_201902 현장\AirBlowerProgram_DH2\EthernetServerManager\bin\Release\EthernetServerManager.pdb
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerInspection_201902 현장\AirBlowerProgram_DH2\EthernetServerManager\obj\Release\EthernetServerManager.csprojResolveAssemblyReference.cache
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerInspection_201902 현장\AirBlowerProgram_DH2\EthernetServerManager\obj\Release\EthernetServerManager.EthernetWindow.resources
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerInspection_201902 현장\AirBlowerProgram_DH2\EthernetServerManager\obj\Release\EthernetServerManager.Properties.Resources.resources
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerInspection_201902 현장\AirBlowerProgram_DH2\EthernetServerManager\obj\Release\EthernetServerManager.csproj.GenerateResource.Cache
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerInspection_201902 현장\AirBlowerProgram_DH2\EthernetServerManager\obj\Release\EthernetServerManager.dll
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerInspection_201902 현장\AirBlowerProgram_DH2\EthernetServerManager\obj\Release\EthernetServerManager.pdb
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerInspection_201902 현장\AirBlowerProgram_DH2\EthernetServerManager\bin\Release\CustonMsgBoxManager.dll
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerInspection_201902 현장\AirBlowerProgram_DH3\EthernetServerManager\bin\Release\EthernetServerManager.dll
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerInspection_201902 현장\AirBlowerProgram_DH3\EthernetServerManager\bin\Release\EthernetServerManager.pdb
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerInspection_201902 현장\AirBlowerProgram_DH3\EthernetServerManager\bin\Release\CustonMsgBoxManager.dll
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerInspection_201902 현장\AirBlowerProgram_DH3\EthernetServerManager\obj\Release\EthernetServerManager.csprojResolveAssemblyReference.cache
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerInspection_201902 현장\AirBlowerProgram_DH3\EthernetServerManager\obj\Release\EthernetServerManager.EthernetWindow.resources
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerInspection_201902 현장\AirBlowerProgram_DH3\EthernetServerManager\obj\Release\EthernetServerManager.Properties.Resources.resources
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerInspection_201902 현장\AirBlowerProgram_DH3\EthernetServerManager\obj\Release\EthernetServerManager.csproj.GenerateResource.Cache
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerInspection_201902 현장\AirBlowerProgram_DH3\EthernetServerManager\obj\Release\EthernetServerManager.dll
+C:\Zoom\Company\Software\[Genesem]\Air Blower (MIT)\AirBlowerInspection_201902 현장\AirBlowerProgram_DH3\EthernetServerManager\obj\Release\EthernetServerManager.pdb
+F:\[Project]\2018\삼성전기_Air Blower\Program\AirBlowerProgram_DH4\EthernetServerManager\bin\Release\EthernetServerManager.dll
+F:\[Project]\2018\삼성전기_Air Blower\Program\AirBlowerProgram_DH4\EthernetServerManager\bin\Release\EthernetServerManager.pdb
+F:\[Project]\2018\삼성전기_Air Blower\Program\AirBlowerProgram_DH4\EthernetServerManager\bin\Release\CustonMsgBoxManager.dll
+F:\[Project]\2018\삼성전기_Air Blower\Program\AirBlowerProgram_DH4\EthernetServerManager\obj\Release\EthernetServerManager.csprojResolveAssemblyReference.cache
+F:\[Project]\2018\삼성전기_Air Blower\Program\AirBlowerProgram_DH4\EthernetServerManager\obj\Release\EthernetServerManager.EthernetWindow.resources
+F:\[Project]\2018\삼성전기_Air Blower\Program\AirBlowerProgram_DH4\EthernetServerManager\obj\Release\EthernetServerManager.Properties.Resources.resources
+F:\[Project]\2018\삼성전기_Air Blower\Program\AirBlowerProgram_DH4\EthernetServerManager\obj\Release\EthernetServerManager.csproj.GenerateResource.Cache
+F:\[Project]\2018\삼성전기_Air Blower\Program\AirBlowerProgram_DH4\EthernetServerManager\obj\Release\EthernetServerManager.dll
+F:\[Project]\2018\삼성전기_Air Blower\Program\AirBlowerProgram_DH4\EthernetServerManager\obj\Release\EthernetServerManager.pdb
+F:\[Project]\2018\삼성전기_Air Blower\Program\AirBlowerProgram_DH4_IBTECH최종\EthernetServerManager\bin\Release\EthernetServerManager.dll
+F:\[Project]\2018\삼성전기_Air Blower\Program\AirBlowerProgram_DH4_IBTECH최종\EthernetServerManager\bin\Release\EthernetServerManager.pdb
+F:\[Project]\2018\삼성전기_Air Blower\Program\AirBlowerProgram_DH4_IBTECH최종\EthernetServerManager\bin\Release\CustonMsgBoxManager.dll
+F:\[Project]\2018\삼성전기_Air Blower\Program\AirBlowerProgram_DH4_IBTECH최종\EthernetServerManager\obj\Release\EthernetServerManager.EthernetWindow.resources
+F:\[Project]\2018\삼성전기_Air Blower\Program\AirBlowerProgram_DH4_IBTECH최종\EthernetServerManager\obj\Release\EthernetServerManager.Properties.Resources.resources
+F:\[Project]\2018\삼성전기_Air Blower\Program\AirBlowerProgram_DH4_IBTECH최종\EthernetServerManager\obj\Release\EthernetServerManager.csproj.GenerateResource.Cache
+F:\[Project]\2018\삼성전기_Air Blower\Program\AirBlowerProgram_DH4_IBTECH최종\EthernetServerManager\obj\Release\EthernetServerManager.dll
+F:\[Project]\2018\삼성전기_Air Blower\Program\AirBlowerProgram_DH4_IBTECH최종\EthernetServerManager\obj\Release\EthernetServerManager.pdb
+D:\Project\2018\Air Blower\AirBlowerProgram_DH4_IBTECH최종\EthernetServerManager\bin\Release\EthernetServerManager.dll
+D:\Project\2018\Air Blower\AirBlowerProgram_DH4_IBTECH최종\EthernetServerManager\bin\Release\EthernetServerManager.pdb
+D:\Project\2018\Air Blower\AirBlowerProgram_DH4_IBTECH최종\EthernetServerManager\bin\Release\CustonMsgBoxManager.dll
+D:\Project\2018\Air Blower\AirBlowerProgram_DH4_IBTECH최종\EthernetServerManager\obj\Release\EthernetServerManager.csprojResolveAssemblyReference.cache
+D:\Project\2018\Air Blower\AirBlowerProgram_DH4_IBTECH최종\EthernetServerManager\obj\Release\EthernetServerManager.EthernetWindow.resources
+D:\Project\2018\Air Blower\AirBlowerProgram_DH4_IBTECH최종\EthernetServerManager\obj\Release\EthernetServerManager.Properties.Resources.resources
+D:\Project\2018\Air Blower\AirBlowerProgram_DH4_IBTECH최종\EthernetServerManager\obj\Release\EthernetServerManager.csproj.GenerateResource.Cache
+D:\Project\2018\Air Blower\AirBlowerProgram_DH4_IBTECH최종\EthernetServerManager\obj\Release\EthernetServerManager.dll
+D:\Project\2018\Air Blower\AirBlowerProgram_DH4_IBTECH최종\EthernetServerManager\obj\Release\EthernetServerManager.pdb
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_DH4_MIT최종\EthernetServerManager\bin\Release\EthernetServerManager.dll
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_DH4_MIT최종\EthernetServerManager\bin\Release\EthernetServerManager.pdb
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_DH4_MIT최종\EthernetServerManager\bin\Release\CustonMsgBoxManager.dll
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_DH4_MIT최종\EthernetServerManager\obj\Release\EthernetServerManager.EthernetWindow.resources
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_DH4_MIT최종\EthernetServerManager\obj\Release\EthernetServerManager.Properties.Resources.resources
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_DH4_MIT최종\EthernetServerManager\obj\Release\EthernetServerManager.csproj.GenerateResource.Cache
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_DH4_MIT최종\EthernetServerManager\obj\Release\EthernetServerManager.dll
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_DH4_MIT최종\EthernetServerManager\obj\Release\EthernetServerManager.pdb
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190405\EthernetServerManager\bin\Release\EthernetServerManager.dll
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190405\EthernetServerManager\bin\Release\EthernetServerManager.pdb
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190405\EthernetServerManager\bin\Release\CustonMsgBoxManager.dll
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190405\EthernetServerManager\obj\Release\EthernetServerManager.EthernetWindow.resources
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190405\EthernetServerManager\obj\Release\EthernetServerManager.Properties.Resources.resources
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190405\EthernetServerManager\obj\Release\EthernetServerManager.csproj.GenerateResource.Cache
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190405\EthernetServerManager\obj\Release\EthernetServerManager.dll
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190405\EthernetServerManager\obj\Release\EthernetServerManager.pdb
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190405\EthernetServerManager\obj\Release\EthernetServerManager.csprojResolveAssemblyReference.cache
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190410배포\EthernetServerManager\bin\Release\EthernetServerManager.dll
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190410배포\EthernetServerManager\bin\Release\EthernetServerManager.pdb
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190410배포\EthernetServerManager\bin\Release\CustonMsgBoxManager.dll
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190410배포\EthernetServerManager\obj\Release\EthernetServerManager.csprojResolveAssemblyReference.cache
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190410배포\EthernetServerManager\obj\Release\EthernetServerManager.EthernetWindow.resources
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190410배포\EthernetServerManager\obj\Release\EthernetServerManager.Properties.Resources.resources
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190410배포\EthernetServerManager\obj\Release\EthernetServerManager.csproj.GenerateResource.Cache
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190410배포\EthernetServerManager\obj\Release\EthernetServerManager.dll
+D:\Project\2018\Air Blower\Program\AirBlowerProgram_190410배포\EthernetServerManager\obj\Release\EthernetServerManager.pdb
